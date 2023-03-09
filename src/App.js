@@ -4,7 +4,7 @@ import { ethers } from 'ethers'
 import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json'
 import Token from './artifacts/contracts/Token.sol/JGToken.json'
 
-const greeterAddress = 'ALCHEMY_HTTP_API_KEY'
+const greeterAddress = '0x5fbdb2315678afecb367f032d93f642f64180aa3'
 const tokenAddress = '0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6'
 
 function App() {
